@@ -32,7 +32,7 @@ $(function() {
     });
     
     $('.play').on('click', function() {
-        window.location.href = "http://igg.me/at/fitid";
+        window.location.href = "http://bit.ly/fitIDIGShare1";
     });
     
 });
